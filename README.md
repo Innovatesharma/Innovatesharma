@@ -16,18 +16,19 @@ Welcome to my GitHub profile! I'm passionate about turning code into innovative 
 
 ## Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-8-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8-000000?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20LTS-000000?style=flat&logo=ubuntu&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ## Projects
 
