@@ -1,8 +1,10 @@
 # Hi, I'm Pramod Sharma! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/your_twitter_username)
-[![GitHub Followers](https://img.shields.io/github/followers/your_github_username?label=Follow&style=social)](https://github.com/your_github_username)
-[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/your_linkedin_profile)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pramods30781368?label=Follow&style=social)](https://twitter.com/Pramods30781368)
+[![GitHub Follow](https://img.shields.io/github/followers/Innovatesharma?label=Follow&style=social)](https://github.com/Innovatesharma)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/-pramod-sharma-/)
+
+
 
 Welcome to my GitHub profile! I'm passionate about turning code into innovative solutions. Currently, I'm diving deep into Backend Development and exploring the world of open source.
 
@@ -16,32 +18,43 @@ Welcome to my GitHub profile! I'm passionate about turning code into innovative 
 
 ## Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-8-000000?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20LTS-000000?style=flat&logo=ubuntu&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white)
+![Java Logo](https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png)
+![C++ Logo](https://img.icons8.com/color/40/000000/c-plus-plus-logo.png)
+![MySQL Logo](https://img.icons8.com/color/40/000000/mysql-logo.png)
+![MongoDB Logo](https://img.icons8.com/color/40/000000/mongodb.png)
+![PostgreSQL Logo](https://img.icons8.com/color/40/000000/postgreesql.png)
+![Python Logo](https://img.icons8.com/color/40/000000/python.png)
+![HTML5 Logo](https://img.icons8.com/color/40/000000/html-5.png)
+![CSS3 Logo](https://img.icons8.com/color/40/000000/css3.png)
+![JavaScript Logo](https://img.icons8.com/color/40/000000/javascript.png)
+![Ubuntu Logo](https://img.icons8.com/color/40/000000/ubuntu.png)
+![IntelliJ IDEA Logo](https://img.icons8.com/color/40/000000/intellij-idea.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code Logo" width="40" height="40">
+
+
+
 
 
 ## Projects
 
 - [Project 1](link_to_project_1): Brief description of project 1.
 - [Project 2](link_to_project_2): Brief description of project 2.
-- ...
 
-## GitHub Stats
+<div style="display: flex; background-color: black;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Innovatesharma&show_icons=true&theme=dark" alt="Pramod Sharma GitHub Stats" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innovatesharma&layout=compact&theme=dark" alt="Most Used Language" />
+  </div>
+</div>
 
-![Your GitHub Status](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true)
 
 ## Get in Touch
 
-- Twitter: [Pramod Sharma](https://twitter.com/Pramods30781368?t=jznOb5T8KE972u1yppK8MA&s=08)
-- GitHub: [Your GitHub Profile](https://github.com/Innovatesharma)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/-pramod-sharma-/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub Logo" width="40" height="40">]()
+[<img src="https://w7.pngwing.com/pngs/364/654/png-transparent-computer-icons-linkedin-symbol-miscellaneous-angle-text.png" alt="LinkedIn Logo" width="40" height="40">]()
+[<img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" alt="Image" width="40" height="40">]()
+
+
+
