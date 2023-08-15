@@ -1,4 +1,4 @@
-# Hi, I'm Pramod Sharma! 👋
+# नमस्ते (Namaste), I'm Pramod Sharma!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pramods30781368?label=Follow&style=social)](https://twitter.com/Pramods30781368)
 [![GitHub Follow](https://img.shields.io/github/followers/Innovatesharma?label=Follow&style=social)](https://github.com/Innovatesharma)
@@ -8,11 +8,11 @@
 
 Welcome to my GitHub profile! I'm passionate about turning code into innovative solutions. Currently, I'm diving deep into Backend Development and exploring the world of open source.
 
-- 🔭 I'm currently working on [Project_name](link_to_project).
+- 🔭 Actively Looking for Full Time Opportunity
 - 🌱 I’m currently learning SpringBoot and Microservices.
 - 👯 I love to collaborate on interesting projects.
 - 🥇 Actively contributing to Open Source Development ([Your Project's Link](link_to_your_project)).
-- 💬 Feel free to reach out to me for discussions related to development.
+- 💬 Feel free to reach out to me for discussions related to **CoreJava,J2EE,SQL,No-SQL,HTML5,CSS,C++**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: When I read a book, I forget the world around me and get lost in the story of the book.
 
@@ -52,9 +52,9 @@ Welcome to my GitHub profile! I'm passionate about turning code into innovative 
 
 ## Get in Touch
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub Logo" width="40" height="40">]()
-[<img src="https://w7.pngwing.com/pngs/364/654/png-transparent-computer-icons-linkedin-symbol-miscellaneous-angle-text.png" alt="LinkedIn Logo" width="40" height="40">]()
-[<img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" alt="Image" width="40" height="40">]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub Logo" width="40" height="40">](github.com/Innovatesharma)
+[<img src="https://w7.pngwing.com/pngs/364/654/png-transparent-computer-icons-linkedin-symbol-miscellaneous-angle-text.png" alt="LinkedIn Logo" width="40" height="40">](https://www.linkedin.com/in/-pramod-sharma-/)
+[<img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" alt="Image" width="40" height="40">](twitter.com/Pramods30781368)
 
 
 
