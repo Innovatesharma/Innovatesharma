@@ -6,7 +6,7 @@
 
 
 
-Welcome to my GitHub profile! I'm passionate about turning code into innovative solutions. Currently, I'm diving deep into Backend Development and exploring the world of open source.
+Welcome to my GitHub profile! I'm passionate about turning code into innovative solutions. Currently, I'm diving deep into Backend Development and exploring the open source.
 
 - 🔭 Actively Looking for Full Time Opportunity
 - 🌱 I’m currently learning SpringBoot and Microservices.
@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm passionate about turning code into innovative 
 
 ## Projects
 
-- [Project 1](link_to_project_1): Brief description of project 1.
-- [Project 2](link_to_project_2): Brief description of project 2.
+- [Bank Database System](link_to_project_1): Brief description of project 1.
+- [Urmila National Acadmy School](link_to_project_2): Brief description of project 2.
 
 <div style="display: flex; background-color: black;">
   <div style="flex: 1;">
